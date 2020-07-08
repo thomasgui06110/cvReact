@@ -212,11 +212,11 @@
       display: grid !important;
       grid-template-columns: 1fr !important;
       grid-template-rows: 1fr 1fr 180px 180px !important;
-      grid-template-areas: 
-        "1"
-        "2"
-        "3"
-        "4" !important;
+      // grid-template-areas: 
+      //   "1"
+      //   "2"
+      //   "3"
+      //   "4" !important;
       
       .languages {
         grid-area: 1 !important;
